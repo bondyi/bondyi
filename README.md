@@ -54,4 +54,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bondyi&theme=dark&border_radius=50&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&border=8C1EFF&stroke=8C1EFF&ring=FFD319&fire=FF901F&currStreakNum=F222FF&sideNums=FF2975&currStreakLabel=F222FF&sideLabels=F222FF&dates=FF901F)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bondyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
