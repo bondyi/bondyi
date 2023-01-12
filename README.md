@@ -1,7 +1,7 @@
 <div id="stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=bondyi&theme=dark&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&border=8C1EFF&stroke=8C1EFF&ring=FFD319&fire=FF901F&currStreakNum=F222FF&sideNums=FF2975&currStreakLabel=F222FF&sideLabels=F222FF&dates=FF901F"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondyi&theme=synthwave&layout=compact&border_radius=4.5&bg_color=FFFFFF00&text_color=F222FF&hide_title=true&border_color=8C1EFF"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bondyi&theme=synthwave&layout=compact&border_radius=4.5&bg_color=FFFFFF00&text_color=F222FF&hide_title=true&border_color=8C1EFF"/>
 </div>
 
 <div id="social" align="center">
