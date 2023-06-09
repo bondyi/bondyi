@@ -34,6 +34,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" title="Dart" alt="Dart" width="40" height="40"/>
       </div>
     </li>
     <li id="platforms-item-list">
@@ -41,6 +42,7 @@
       <div id="platforms">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title=".NET" alt=".NET" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
       </div>
     </li>
     <li id="libraries-item-list">
