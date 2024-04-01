@@ -18,6 +18,8 @@
   </div>
 </div>
 
+<a href="https://app.daily.dev/bondy_i"><img src="https://api.daily.dev/devcards/v2/noIfWfjCOkDndvd6DpKZq.png?r=def&type=wide" width="652" alt="Ilya Bondarik's Dev Card"/></a>
+
 ---
 
 ### Experience:
