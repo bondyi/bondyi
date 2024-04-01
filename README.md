@@ -1,3 +1,7 @@
+<div id="devcard" align="center">
+  <a href="https://app.daily.dev/bondy_i"><img src="https://api.daily.dev/devcards/v2/noIfWfjCOkDndvd6DpKZq.png?r=def&type=wide" width="652" alt="Ilya Bondarik's Dev Card"/></a>
+</div>
+
 <div id="stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=bondyi&theme=dark&border_radius=4.5&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&border=8C1EFF&stroke=8C1EFF&ring=FFD319&fire=FF901F&currStreakNum=F222FF&sideNums=FF2975&currStreakLabel=F222FF&sideLabels=F222FF&dates=FF901F"/>
   <br/>
@@ -17,8 +21,6 @@
     </a>
   </div>
 </div>
-
-<a href="https://app.daily.dev/bondy_i"><img src="https://api.daily.dev/devcards/v2/noIfWfjCOkDndvd6DpKZq.png?r=def&type=wide" width="652" alt="Ilya Bondarik's Dev Card"/></a>
 
 ---
 
