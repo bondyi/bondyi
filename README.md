@@ -65,6 +65,7 @@
       Other tools
       <div id="other-tools">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="40" height="40"/>
       </div>
     </li>
   </ul>
