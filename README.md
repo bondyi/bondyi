@@ -52,13 +52,3 @@
     </li>
   </ul>
 </div>
-
----
-
-<div id="miku" align="center">
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif"/>
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif"/>
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif"/>
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif"/>
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif"/>
-</div>
