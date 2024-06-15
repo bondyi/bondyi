@@ -26,7 +26,6 @@
       Languages
       <div id="languages">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" title="Dart" alt="Dart" width="40" height="40"/>
       </div>
     </li>
@@ -39,9 +38,17 @@
       </div>
     </li>
     <li id="rdbms-item-list">
-      RDBMS
+      DBMS
       <div id="rdbms">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+      </div>
+    </li>
+    <li id="ide-item-list">
+      IDE's
+      <div id="ide">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+        <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
       </div>
     </li>
     <li id="other-tools-item-list">
