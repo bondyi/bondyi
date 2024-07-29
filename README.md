@@ -20,7 +20,7 @@
 
 ### Experience:
 
-<div id="experience">
+<div id="experience" align="center">
   <ul id="experience-list">
     <li id="languages-item-list">
       Languages
