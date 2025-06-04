@@ -21,7 +21,7 @@
 ### Experience:
 
 <div id="experience" align="center">
-  <ul id="experience-list">
+  <ul list-style-type="none" id="experience-list">
     <li id="languages-item-list">
       Languages
       <div id="languages">
