@@ -19,8 +19,8 @@
 ### Experience:
 
 <div id="experience">
-  <ul id="experience-list" style="list-style-type:none">
-    <li id="languages-item-list">
+  <ul id="experience-list" style="display:flex; list-style:none; padding:0;">
+    <li id="languages-item-list" style="margin-right: 20px;">
       Languages
       <div id="languages">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
@@ -28,7 +28,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
       </div>
     </li>
-    <li id="platforms-item-list">
+    <li id="platforms-item-list" style="margin-right: 20px;">
       Platforms
       <div id="platforms">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" title=".NET" alt=".NET" width="40" height="40"/>
@@ -36,13 +36,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
       </div>
     </li>
-    <li id="rdbms-item-list">
+    <li id="rdbms-item-list" style="margin-right: 20px;">
       DBMS
       <div id="rdbms">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       </div>
     </li>
-    <li id="ide-item-list">
+    <li id="ide-item-list" style="margin-right: 20px;">
       IDE's
       <div id="ide">
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
@@ -51,7 +51,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
       </div>
     </li>
-    <li id="other-tools-item-list">
+    <li id="other-tools-item-list" style="margin-right: 20px;">
       Other tools
       <div id="other-tools">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
