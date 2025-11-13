@@ -4,13 +4,13 @@
 
 <div id="social" align="center">
   <div id="badges">
-    <a href="https://vk.com/bondyi">
+    <a href="https://www.linkedin.com/in/bondyi">
       <img src="https://img.shields.io/badge/LinkedIn-8C1EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/bondyi/">
       <img src="https://komarev.com/ghpvc/?username=bondyi&style=for-the-badge&color=8C1EFF" alt="Views Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/bondyi/">
+    <a href="https://vk.com/bondyi"">
       <img src="https://img.shields.io/badge/VK-8C1EFF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
@@ -18,8 +18,8 @@
 
 ### Experience:
 
-<div id="experience" align="center">
-  <ul list-style-type="none" id="experience-list">
+<div id="experience">
+  <ul id="experience-list" style="list-style-type:none">
     <li id="languages-item-list">
       Languages
       <div id="languages">
@@ -47,8 +47,8 @@
       <div id="ide">
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
       </div>
     </li>
     <li id="other-tools-item-list">
